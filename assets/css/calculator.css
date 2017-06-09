@@ -9,6 +9,11 @@ header{
   margin-bottom: 50px;
 }
 
+footer{
+  font-size: 30px;
+  margin-top: 50px;
+}
+
 input {
   text-align: right;
 }
